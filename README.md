@@ -1,3 +1,5 @@
+![Banner](./imagenes/banner.png)
+
 # Ejercicios de JavaScript
 
 ## EJERCICIOS
